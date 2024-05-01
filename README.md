@@ -1,4 +1,4 @@
-<h1> CONVERSOR DE MONEDAS CHALLEGUNUE </h1>
+<h1> CONVERSOR DE MONEDAS CHALLENGE </h1>
 <p> Este es un conversor de monedas simple, lo unico que debes hacer es ejecutar el programa y elegir la moneda que prefieras. </p>
 
 <h2>EJEMPLO</h2>
